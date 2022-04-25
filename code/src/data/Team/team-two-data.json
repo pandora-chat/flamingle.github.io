@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "team/team-01.jpg",
+    "title": "Julie S",
+    "role": "Project Lead"
+  },
+  {
+    "id": 2,
+    "image": "team/team-02.jpg",
+    "title": "Jason Feng",
+    "role": "Engineering Lead"
+  },
+  {
+    "id": 3,
+    "image": "team/team-03.jpg",
+    "title": "Mars Tan",
+    "role": "Design Lead"
+  }
+]
