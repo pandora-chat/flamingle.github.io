@@ -16,7 +16,7 @@ const FooterOne = () => (
                 </div>
                 <div className="widget-links">
                   <ul>
-                    <li>PANDORA</li>
+                    <li>FLAMINGLE</li>
                     <li>213-255-8709</li>
                     <li>jyshi1107@gmail.com</li>
                   </ul>
