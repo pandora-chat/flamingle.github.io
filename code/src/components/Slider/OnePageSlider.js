@@ -38,10 +38,10 @@ const OnePageSlider = () => {
             <div className="hero-text fade-center-text">
               <div className="container">
                 <div className="white-color text-center">
-                  <h1 className="font-700 font-90px">PANDORA.</h1>
-                  <h5 className="text-uppercase">
-                  An Immersive Web3 Social Chat App gated by NFTs and Cryptos<br></br> where users can interact as their own NFT avatar.
-                  </h5>
+                  <h1 className="font-700 font-90px">Flamingle</h1>
+                  <h4 className="text-uppercase">
+                  Web3 native community app that bridges people with shared interests and values with real, safe, and deep conversations.
+                  </h4>
                   
                 </div>
               </div>
@@ -60,9 +60,9 @@ const OnePageSlider = () => {
               <div className="container">
                 <div className="white-color text-center">
                   <h1 className="font-700 font-90px">Our Vision</h1>
-                  <h5 className="text-uppercase">
-                  Connect everyone in web3.
-                  </h5>
+                  <h4 className="text-uppercase">
+                  Provide a space for people to build connections with real value.
+                  </h4>
                   
                 </div>
               </div>

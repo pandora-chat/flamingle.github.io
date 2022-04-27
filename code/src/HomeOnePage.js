@@ -31,9 +31,8 @@ const HomeOnePage = () => (
   <div>
     <NavbarSimpleSocial data={dataNavbar} />
     <OnePageSlider />
-    
     <TestimonialOne data={dataProblems} title="Problems of Existing Products"></TestimonialOne>
-    <TestimonialTwo data={dataTestimonials} title="Why Is Pandora Better"></TestimonialTwo>
+    <TestimonialTwo data={dataTestimonials} title="Why Is Flamingle Better"></TestimonialTwo>
     <TeamTwo title="OUR TEAM" data={dataTeam} bg="white" />
     <FooterOne />
   </div>

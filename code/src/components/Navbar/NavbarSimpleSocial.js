@@ -27,6 +27,7 @@ const NavbarSimpleSocial = ({ data }) => {
           collapse={collapse}
           width={width}
         />
+        <AttrNavSocial/>
         <CSSTransition in={collapse} timeout={300} classNames="collapse-navbar">
           <div>
            
